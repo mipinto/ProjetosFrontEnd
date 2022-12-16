@@ -1,2 +1,2 @@
 # Projetos Front End
-Portfólio de práticas em FrontEnd
+Portfólio de práticas em Front End
